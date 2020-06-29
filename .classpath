@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="thuvien/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="thuvien/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="thuvien/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="thuvien/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="lib" path="thuvien/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="thuvien/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="thuvien/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="thuvien/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
